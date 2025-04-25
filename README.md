@@ -16,6 +16,8 @@
   - **Anklets**, **Chains**, **Bangles**, **Necklaces**, **Pendants**, **Rings**, **Bracelets**, **Earrings**
 
 - **Product Details**: Each item includes images, descriptions, and pricing information.
+- **User-Friendly Interface**: Clean, modern UI ensures easy navigation.
+- **Smooth Animations**: Interactive transitions and hover effects enhance the user experience.
 
 
 ---
