@@ -17,7 +17,6 @@
 
 - **Product Details**: Each item includes images, descriptions, and pricing information.
 
-![Home Page](https://github.com/samiho03/Game-Sales-Predictor-ML/blob/main/homepage)
 
 ---
 
@@ -80,7 +79,8 @@
 
 ## 📸 UI Previews
 
-*Insert images or links to UI mockups and screenshots here to provide a visual overview of the application.*
+![Home Page](https://github.com/samiho03/Web-App-for-Jewelry-Shop/blob/main/maryy.png)
+
 
 ---
 
