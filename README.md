@@ -25,7 +25,6 @@
 - **Add to Cart**: Users can add items to their shopping cart.
 - **Checkout Process**: Seamless checkout experience with order summary.
 
-*UI Placeholder: Insert screenshots of the shopping cart and checkout pages here.*
 
 ---
 
@@ -34,7 +33,6 @@
 - **Contact Form**: Users can reach out via a contact form.
 - **Contact Management**: Admins can view and manage contact submissions.
 
-*UI Placeholder: Insert screenshots of the contact form and admin contact management pages here.*
 
 ---
 
@@ -44,7 +42,6 @@
 - **Order Management**: View and process customer orders.
 - **User Management**: Manage user accounts and permissions.
 
-*UI Placeholder: Insert screenshots of the admin dashboard and management pages here.*
 
 ---
 
@@ -53,7 +50,6 @@
 - **About Us**: Learn more about the jewelry shop's history and mission.
 - **Terms & Conditions**: Understand the policies governing purchases and usage.
 
-*UI Placeholder: Insert screenshots of the About Us and Terms & Conditions pages here.*
 
 ---
 
@@ -84,9 +80,5 @@
 
 ---
 
-## 📬 Feedback & Contributions
 
-We welcome feedback and contributions! Please open an issue or submit a pull request for any suggestions or improvements.
-
----
 
