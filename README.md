@@ -4,9 +4,9 @@
 
 ---
 
-## ✨ Features
+## Features
 
-### 🛍️ Product Catalog
+###  Product Catalog
 
 - **Diverse Collections**: Explore various categories such as:
   - **Angel Collection**
@@ -20,7 +20,7 @@
 
 ---
 
-### 🛒 Shopping Cart & Checkout
+### Shopping Cart & Checkout
 
 - **Add to Cart**: Users can add items to their shopping cart.
 - **Checkout Process**: Seamless checkout experience with order summary.
@@ -28,7 +28,7 @@
 
 ---
 
-### 📞 Contact & Support
+### Contact & Support
 
 - **Contact Form**: Users can reach out via a contact form.
 - **Contact Management**: Admins can view and manage contact submissions.
@@ -36,7 +36,7 @@
 
 ---
 
-### 🔐 Admin Dashboard
+### Admin Dashboard
 
 - **Product Management**: Add, update, or remove products from the catalog.
 - **Order Management**: View and process customer orders.
@@ -45,7 +45,7 @@
 
 ---
 
-### 📄 Static Pages
+### Static Pages
 
 - **About Us**: Learn more about the jewelry shop's history and mission.
 - **Terms & Conditions**: Understand the policies governing purchases and usage.
@@ -53,7 +53,7 @@
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
@@ -61,7 +61,7 @@
 
 ---
 
-## 📂 Directory Overview
+## Directory Overview
 
 - `AboutUs/`: Contains the About Us page content.
 - `Admin/`: Admin dashboard and management functionalities.
@@ -73,7 +73,7 @@
 
 ---
 
-## 📸 UI Previews
+## UI Previews
 
 ![Home Page](https://github.com/samiho03/Web-App-for-Jewelry-Shop/blob/main/maryy.png)
 
