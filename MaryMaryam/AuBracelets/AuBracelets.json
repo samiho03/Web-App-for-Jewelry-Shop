@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name":"White Gold Ladies Bracelet Studded With Genuine Diamond | 18 Kt (22.93g) |",
+        "price": 566300,
+        "image": "brace1.png",
+        "category": "twin"
+    },
+    {
+        "id": 2,
+        "name":"White Gold Ladies Bracelet With Diamond | 18 Kt (22.61g) |",
+        "price": 639800,
+        "image": "brace2.png",
+        "category": "18ktygold"
+    }
+   
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name":"White Gold 0.50ct Diamond Wave Stud Earrings | 18 Kt |",
+        "price": 325000,
+        "image": "Wearrin1.png",
+        "category": "18gold"
+    },
+    {
+        "id": 2,
+        "name":"White Gold Elongated Drop Earrings | 9 Kt | 3cm",
+        "price": 54300,
+        "image": "Wearrin2.png",
+        "category": "9gold"
+    }
+]

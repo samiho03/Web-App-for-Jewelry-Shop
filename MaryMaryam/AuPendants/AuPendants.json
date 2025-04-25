@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name":"White Gold Pearl and Diamond Pendant and Chain | 9 Kt | 16-18'",
+        "price": 118000,
+        "image": "Wpendant1.png",
+        "category": "9gold"
+    },
+    {
+        "id": 2,
+        "name":"White Gold 0.38ct Diamond Halo Pendant | 18 Kt (0.73g) |",
+        "price": 570800,
+        "image": "Wpendant2.png",
+        "category": "18gold"
+    }
+]

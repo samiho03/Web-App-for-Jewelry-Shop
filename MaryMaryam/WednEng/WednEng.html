@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/MaryMaryam/product.css">
+    <link rel="stylesheet" href="/MaryMaryam/search2.css">
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400; 500;600; 700; 800; 900&display=swap" rel= "stylesheet">
+</head>
+
+
+<body class="">
+ 
+    <div class="container">
+        
+        <header>
+        <div class="headerr">
+            <div class="title">Wedding & Engagement</div>
+           
+            <div class="icon-cart">
+                <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 20">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm0 0h8m-8 0-1-4m9 4a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm-9-4h10l2-7H3m2 7L3 4m0 0-.792-3H1"/>
+                </svg>
+                <span>0</span>
+            </div> 
+        </div> 
+        <div id="search-container">
+            <input
+              type="search"
+              id="search-input"
+              placeholder="Search product name here.."
+            />
+            <button id="search">Search</button>
+        </div>
+        <div class="filter">
+            <!-- <h3>Filter by Category</h3> -->
+            <label><input type="checkbox" value="all"> All </label>
+            <label><input type="checkbox" value="Wnecklaces" > Necklaces </label>
+            <label><input type="checkbox" value="Wearrings"> Earrings </label>
+            <label><input type="checkbox" value="Wrings"> Rings </label>
+            <label><input type="checkbox" value="Wbangles"> Bangles </label>
+            
+            <!-- Add more checkboxes for other categories as needed -->
+        </div>
+        </header>
+        <div class="listProduct">
+
+        </div>
+        
+    </div>
+    <div class="cartBack">
+        <div class="cartTab">
+            <h1>Shopping Cart</h1>
+                <div class="listCart">
+            
+                </div>
+        
+        
+                <div class="btn">
+                    <button class="close"><i class="fas fa-xmark"></i></button>
+                    <button class="checkOut"><a href="\MaryMaryam\MaryMaryam\checkout.php" >PROCEED TO CHECKOUT</a></button>
+                </div>
+        </div>
+    </div>
+    <script src="\MaryMaryam\MaryMaryam\script.js"></script>
+    <script src="WednEng.js"></script>
+</body>
+</html>

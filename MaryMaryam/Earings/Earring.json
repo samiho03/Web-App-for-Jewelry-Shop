@@ -1,0 +1,108 @@
+[
+    {
+        "id": 1,
+        "name":"Yellow Gold Small Flower Stud Earrings | 9Kt | 3.12 gm",
+        "price": 20000,
+        "image": "stud1.png",
+        "category": "studs"
+    },
+    {
+        "id": 2,
+        "name":"Colette Hoop Earrings in Gold | 14 Kt | 1.26' Outside Diameter ",
+        "price": 21100,
+        "image": "hoop1.png",
+        "category": "hoops"
+    },
+    {
+        "id": 3,
+        "name":"Juliette Drop Earrings in White Crystal | 14 Kt | 1.1'L X 0.15'W",
+        "price": 21100,
+        "image": "dangle1.png",
+        "category": "dangles"
+    },
+    {
+        "id": 4,
+        "name":"Yellow Gold Floral-Design Stud Earrings | 22 Kt | 2.83 gm",
+        "price": 25000,
+        "image": "stud2.png",
+        "category": "studs"
+    },
+    {
+        "id": 5,
+        "name":"Yellow Gold Stud Earring | 18 Kt | 3.93 gm",
+        "price": 18990,
+        "image": "stud3.png",
+        "category": "studs"
+    },
+    {
+        "id": 6,
+        "name":"Rhinestone Studded 4 Claw Ear Cuffs",
+        "price": 20000,
+        "image": "cuff1.png",
+        "category": "Cuffs"
+    },
+    {
+        "id": 7,
+        "name":"Annie Hoop Earrings in Yellow Gold | 14 Kt | 1.61'L X 0.38'W",
+        "price": 24700,
+        "image": "hoop2.png",
+        "category": "hoops"
+    },
+    {
+        "id": 8,
+        "name":"Bhumi Beaming Bell Climbers | 925 | 5.1 gm",
+        "price": 24400,
+        "image": "earClimber2.png",
+        "category": "EarClimbers"
+    },
+    {
+        "id": 9,
+        "name":"Oxidised Chandelier Chandbali Earrings",
+        "price": 45990,
+        "image": "Chandelier1.png",
+        "category": "Chandeliers"
+    },
+    {
+        "id": 10,
+        "name":"Laurie Ear Climbers in Rose Gold | 14 Kt | 0.81'L x 0.49'W on post",
+        "price": 28999,
+        "image": "earClimber1.png",
+        "category": "EarClimbers"
+    },
+    {
+        "id": 11,
+        "name":"Women Gold Ear Cuffs| 14 Kt | ",
+        "price": 25000,
+        "image": "cuff2.png",
+        "category": "Cuffs"
+    },
+    {
+        "id": 12,
+        "name":"Yellow Gold Paisley Design Stud Earrings | 14 Kt | 1.15 gm",
+        "price": 25000,
+        "image": "stud4.png",
+        "category": "studs"
+    },
+    {
+        "id": 13,
+        "name":"Mikki Metal Huggie Earrings in Gold | 14 Kt | 0.67'L x 0.65'W",
+        "price": 18900,
+        "image": "hoop3.png",
+        "category": "hoops"
+        
+    },
+    {
+        "id": 14,
+        "name":"Sophia Clip On Drop Earrings in Gold | 14 Kt | 1.75'L x 0.82'",
+        "price": 17900,
+        "image": "dangle2.png",
+        "category": "dangles"
+    },
+    {
+        "id": 15,
+        "name":"Gold Stone Beaded Jhumkas",
+        "price": 45900,
+        "image": "Chandelier2.png",
+        "category": "Chandeliers"
+    }
+]

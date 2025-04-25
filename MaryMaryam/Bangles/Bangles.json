@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "name":"SK 916 Classic Gold Bangle | 3.65mm x 2.07mm ",
+        "price": 470000,
+        "image": "classic1.png",
+        "category": "classic"
+    },
+    {
+        "id": 2,
+        "name":"Yellow Gold Net Armour Bangle | 18 Kt | 63.6mm'L x 6.9mm'W",
+        "price": 410300,
+        "image": "classic4.png",
+        "category": "classic"
+    },
+    {
+        "id": 3,
+        "name":"Filigree Rosette Bangle Yellow gold | 18 Kt |",
+        "price": 177990,
+        "image": "filigree1.png",
+        "category": "filigree"
+    },
+    {
+        "id": 4,
+        "name":"Classic Twisted Rope Gold Bangle | 916 Gold |",
+        "price": 531990,
+        "image": "classic3.png",
+        "category": "classic"
+    },
+    {
+        "id": 5,
+        "name":"Glamorous Double Layered Gold Bangle | 22 Kt |",
+        "price": 208000,
+        "image": "layered1.png",
+        "category": "layered"
+    },
+    {
+        "id": 6,
+        "name":"Traditional Gold Kada Bangle | 18 Kt(15.210g) | 2'8",
+        "price": 360200,
+        "image": "kada1.png",
+        "category": "kada"
+    },
+    {
+        "id": 7,
+        "name":"Kelly Bangle Bracelet in Gold |2.48' Inner Diameter, 0.27'W ",
+        "price": 247000,
+        "image": "classic2.png",
+        "category": "classic"
+    },
+    {
+        "id": 8,
+        "name":"Caesar Roman Gold Bangle | 916 | 6.2cm'L x 6.16mm'W",
+        "price": 2158000,
+        "image": "roman1.png",
+        "category": "roman"
+    },
+    {
+        "id": 9,
+        "name":"Multi-layered Gold Bangle | 22 Kt | 60mm x 60mm",
+        "price": 399000,
+        "image": "layered2.png",
+        "category": "layered"
+    },
+    {
+        "id": 10,
+        "name":"Aurelia Roman Gold Bangle | 916 Gold |3cm width",
+        "price": 2405600,
+        "image": "roman2.png",
+        "category": "roman"
+    }
+ 
+]

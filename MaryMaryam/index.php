@@ -1,0 +1,191 @@
+<?php
+session_start();
+include("db.php");
+if ($_SERVER["REQUEST_METHOD"] == "POST") 
+{
+    $username = $_POST['username'];
+    $email = $_POST['email'];
+    $password = $_POST['password'];
+    
+    $sql = "INSERT INTO form (username, email, password) VALUES ('$username', '$email', '$password')";
+        if (mysqli_query($conn, $sql))
+        header("location:login.html");
+    
+    else
+    {
+        echo "<script type='text/javascript'> alert('Please enter same valid information')</script>";
+    }
+}
+mysqli_close($conn);
+?>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Marymaryam Juwerlry</title>
+    <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="navForAll.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="search.css">
+    <link rel="stylesheet" href="product.css">
+    
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400; 500;600; 700; 800; 900&display=swap" rel= "stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?
+    family=Work+Sans:wght@300;400; 500;600; 700; 800; 900&display=swap" rel= "stylesheet">
+    <!-----boxicons link--->
+    <link rel="stylesheet"
+    href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+</head>
+<body>
+
+    <header >           
+        <nav>                 
+        <div class="navi" >  
+            <!-- <input type="checkbox" id="check"> -->
+            <!-- <label for="check" class="checkbtn">
+                <a href="#"><i class="fas fa-bars"></i></a>
+            </label> -->
+            <!-- <button aria-label="Open menu" class="burger-menu" type="button">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-menu" width="24" height="24"
+                    viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round"
+                    stroke-linejoin="round">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                    <path d="M4 8l16 0" />
+                    <path d="M4 16l16 0" />
+                </svg>
+            </button> -->
+            <div class="nav__toggle" id="nav-toggle">
+                <i class="ri-menu-line nav__toggle-menu"></i>
+                <i class="ri-close-line nav__toggle-close"></i>
+            </div>
+
+               
+            <div class="search-container">
+                <input type="search" id="searchInput" placeholder="Search here ...">
+                <div class="autocomplete-container">
+                    <ul class="autocomplete-results" id="autocompleteResults"></ul>
+                </div>
+                <i class="fa fa-search" id="searchButton"></i>
+            </div>
+                
+            <div class="iconSet"> 
+                <a href="/MaryMaryam/MaryMaryam/login.html"   aria-label="User Account" title="User Account"> <i class="fa fa-circle-user" ></i></a>
+            </div>
+                 
+            <div class="icon-cart">
+                <i class="fa fa-bag-shopping"  aria-label="Cart" title="Cart"></i>
+                <span>0</span>
+            </div> 
+
+            <!-- <div class="icon-cart">
+                <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 20">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm0 0h8m-8 0-1-4m9 4a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm-9-4h10l2-7H3m2 7L3 4m0 0-.792-3H1"/>
+                </svg>
+                <span>0</span>
+            </div> -->
+            
+            <div class="shopName" >
+                <a href="/MaryMaryam/MaryMaryam/mary.html"  aria-label="Home" title="Home"> <img src="/MaryMaryam/MaryMaryam/Frame1.png" alt=""></a>   
+            </div>
+
+
+            <ul class="navigation hide" >         
+            <div class="nav-content">
+                <li class="navTitle"><a href="/MaryMaryam/MaryMaryam/GoldJewel/GoldJewel.html">Gold Jewellery</a>
+      
+                    <ul class="submenu" id="gol">
+                        <li><a href="/MaryMaryam/MaryMaryam/Necklaces/Necklace.html">Necklaces</a></li>
+                        <li><a href="/MaryMaryam/MaryMaryam/Earings/Earring.html">Earrings</a></li>
+                        <li><a href="/MaryMaryam/MaryMaryam/Bangles/Bangles.html">Bangles</a></li>
+                        <li><a href="/MaryMaryam/MaryMaryam/Rings/Rings.html">Rings</a></li>
+                        <li><a href="/MaryMaryam/MaryMaryam/Bracelets/Bracelets.html">Bracelets</a></li>
+                        <li><a href="/MaryMaryam/MaryMaryam/Pendants/Pendants.html">Pendants</a></li>
+                        <li><a href="/MaryMaryam/MaryMaryam/Chains/Chains.html">Chains</a></li>
+                        <li><a href="/MaryMaryam/MaryMaryam/Anklets/Anklets.html">Anklets</a></li>
+                    </ul>
+                </li>
+                <li  class="navTitle"><a href="/MaryMaryam/MaryMaryam/WednEng/WednEng.html">Wedding & Engagement</a>
+                    <ul class="submenu" id="wed">
+                        <li><a href="/MaryMaryam/MaryMaryam/WedNecklaces/WedNecklace.html">Necklaces</a></li>
+                        <li><a href="/MaryMaryam/MaryMaryam/WedEarrings/WedEarrings.html">Earrings</a></li>
+                        <li><a href="/MaryMaryam/MaryMaryam/WedRings/WedRings.html">Rings</a></li>
+                        <li><a href="/MaryMaryam/MaryMaryam/WedBangles/WedBangles.html">Bangles</a></li>
+                    </ul>
+                </li>
+                <li  class="navTitle"><a href="/MaryMaryam/MaryMaryam/AngelCollection/angel.html">Angel Collection</a></li>
+                <li  class="navTitle"><a href="/MaryMaryam/MaryMaryam/ForMen/ForMen.html">For Men</a></li>
+                <li  class="navTitle"><a href="/MaryMaryam/MaryMaryam/Aura/Aura.html">Aura</a>
+                    <ul class="submenu" id="au">
+                        <li><a href="/MaryMaryam/MaryMaryam/AuEarrings/AuEarrings.html">Earrings</a></li>
+                        <li><a href="/MaryMaryam/MaryMaryam/AuRings/AuRings.html">Rings</a></li>
+                        <li><a href="/MaryMaryam/MaryMaryam/AuBracelets/AuBracelets.html">Bracelets</a></li>
+                        <li><a href="/MaryMaryam/MaryMaryam/AuPendants/AuPendants.html">Pendants</a></li>
+                    </ul>
+                </li>
+        
+                <!-- <li  class="navTitle"><a href="#">What's New</a></li> -->
+                <li  class="navTitle"><a href="/MaryMaryam/MaryMaryam/AboutUs/Story.html">Our Story</a></li>
+            </ul>
+                   
+        </div>
+        </div>
+        </nav>
+    </header>
+
+    <div class="wrap">
+        <h3>Sign Up</h3>
+         <form action="#" method="post"  class="formmm">
+         <input type="Username" id="Username" name="Username" placeholder="Username" required />
+        <input type="email" id="email" name="email" placeholder="email" required />
+            <input type="password" placeholder="password" id="password" class="form-control" name="password" required />
+            <input type="password" id="confirm_password" name="confirm_password" placeholder="Re-Enter Password" required />
+       
+    <div class="term">
+        <input type="checkbox" id="checkbox" name="terms_agree">
+        <label for="checkbox">I agree to these <a href="/MaryMaryam/MaryMaryam/Terms/Terms.html">Terms & Conditions</a></label>
+    </div>
+   
+    <button type="submit" name="signup">Sign Up</button>
+    </form>
+     <div class="member">
+        Already a member? <a href="login.html">
+        Login Here 
+        </a>
+    </div>
+</div>
+<div id="footer-placeholder"></div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    // jQuery to include footer and navigation bar
+    $(function(){
+        $("#footer-placeholder").load("footer.html");
+    });
+</script>
+
+ <!-- <script src="mary.js"></script> -->
+
+    
+
+    <script src="search.js"></script>
+    <script src="mary.js"></script>
+    <script src="product.js"></script>
+</body>
+</html>

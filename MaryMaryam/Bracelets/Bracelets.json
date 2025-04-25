@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name":"Intricate Floral Gold Bangle Brcelet | 22 Kt (12.46g) |",
+        "price": 373000,
+        "image": "bangle1.png",
+        "category": "bangle"
+    },
+    {
+        "id": 2,
+        "name":"Fancy Floral Pattern Gold Casual Wear Bracelet | 22 Kt (4.93g) |",
+        "price": 152000,
+        "image": "floral1.png",
+        "category": "fancy"
+    },
+    {
+        "id": 3,
+        "name":"Classic Matte Finished Gold Cartier Bracelet | 22 Kt (35.79g) |",
+        "price": 1062000,
+        "image": "cartier1.png",
+        "category": "cartier"
+    },
+    {
+        "id": 4,
+        "name":"Beautiful Bangle Bracelet | 22 Kt (9.65g) | ",
+        "price":285000,
+        "image": "bangle2.png",
+        "category": "bangle"
+    },
+    {
+        "id": 5,
+        "name":"Uniquely Crafted And Studded Gold Bracelet | 22 Kt (5.10g) |",
+        "price": 153700,
+        "image": "stud1.png",
+        "category": "studded"
+    },
+    {
+        "id": 6,
+        "name":"Gleaming Eclectic Mens Bracelet | 22 Kt (8.63g) | ",
+        "price": 245000,
+        "image": "men1.png",
+        "category": "dual"
+    }
+  
+]

@@ -1,0 +1,121 @@
+/* .search-container {
+    position: relative;
+    width: 300px;
+    margin: 50px auto;
+  }
+  
+  #searchInput {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  } */
+
+.search-container{
+  position: fixed;
+  z-index: 66;
+  /* margin-right: 25px;
+  margin-top: 2px; */
+  /* margin-top: 4%; */
+  left: 90%;
+  transform: translate(-50%,-50%);
+  transition: all 1s;
+  width: 50px;
+  height: 50px;
+  background: rgba(255, 255, 255, 0);
+  box-sizing: border-box;
+  border-radius: 25px;
+}
+
+#searchInput{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;;
+    height: 42.5px;
+    line-height: 30px;
+    outline: 0;
+    border: 0;
+    display: none;
+    font-size: 1em;
+    border-radius: 20px;
+    padding: 0 20px;
+}
+
+#searchButton{
+    box-sizing: border-box;
+    padding: 10px;
+    width: 42.5px;
+    height: 42.5px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+    /* color: #000000; */
+    text-align: center;
+    font-size: 25px;
+    transition: all 1s;
+}
+
+.search-container:hover{
+    width: 230px;
+    cursor: pointer;
+}
+
+.search-container:hover #searchInput{
+    display: block;
+}
+
+.search-container:hover #searchButton{
+    background: #a5917d;
+    color: white;
+}
+  
+.autocomplete-container {
+  position: relative;
+}
+
+.search-container:hover .autocomplete-container {
+  display: block;
+  background-color: #ae9883;
+}
+
+.autocomplete-results {
+    position: absolute;
+    width: calc(100% - 5px);
+    max-height: 200px;
+    overflow-y: auto;
+    list-style-type: none;
+    display: none;
+    /* padding: 0; */
+    margin-top: 45px;
+    border: none;
+    border-top: none;
+    border-radius: 15px;
+    background-color: #fff;
+}
+  
+  .autocomplete-results li {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;    
+  }
+  
+  .autocomplete-results li:hover{
+    color:  #f3e8ac;
+  }
+  .search-container:hover .autocomplete-results{
+    display: block;
+    background-color: #ae9883;
+  }
+  
+  /* .autocomplete-results li:hover {
+    background-color: #f6e3e3;
+  } */
+  

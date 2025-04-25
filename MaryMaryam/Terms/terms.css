@@ -1,0 +1,95 @@
+.crimson-text-regular {
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .crimson-text-regular-italic {
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .crimson-text-semibold {
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .crimson-text-semibold-italic {
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .crimson-text-bold {
+    font-family: "Crimson Text", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .crimson-text-bold-italic {
+    font-family: "Crimson Text", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+body {
+    background-color:  #fdf3e4d1; 
+    margin: 0;
+    padding: 0;
+}
+.text{
+  margin: 60px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+
+.terms {
+    margin: 10% auto 0;
+    color: #291502;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Heading styles */
+.text h3 {
+    color: #462302;
+    font-size: 25px;
+    margin-top: 20px; 
+}
+
+/* Paragraph styles */
+.text p {
+    color: #312c28;
+    font-size: 18px; 
+    margin-bottom: 20px; 
+    text-align: justify;
+}
+
+/* Horizontal rule styles */
+.terms hr {
+    border: none;
+    border-top: 1px solid #462302; 
+    width: 30%; 
+    margin: 20px auto 20px; 
+}
+@media screen and (max-width: 768px) {
+    .terms {
+        font-size: 24px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    hr {
+        width: 60%;
+    }
+}
+

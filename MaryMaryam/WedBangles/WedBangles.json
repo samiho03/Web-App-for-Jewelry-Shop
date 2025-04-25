@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name":"trendy Daily Wear Gold Bangle | 22 Kt (5.35g) | 36cm",
+        "price": 162800,
+        "image": "WBang1.png",
+        "category": "Wkada"
+    },
+    {
+        "id": 2,
+        "name":"Intricate Floral Gold Bangle Brcelet | 22 Kt (12.46g) |",
+        "price":373000,
+        "image": "WBang2.png",
+        "category": "Wfloral"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Ridge Heart Clip-On Pendant| 18 Kt | L35mm, W19.7mm, D5.6mm",
+        "price": 38300,
+        "image": "heart1.png",
+        "category": "heart"
+    },
+    {
+        "id": 2,
+        "name": "Letter A Calligraphic Gold Pendant | 22 Kt (1.9g) | H22mm\u2a2f W14mm",
+        "price": 62300,
+        "image": "ini1.png",
+        "category": "ini"
+    },
+    {
+        "id": 3,
+        "name": "Devotional Cross Pendant | 22 Kt (0.82 g) | 18mm \u2a2f 8mm",
+        "price": 44990,
+        "image": "cross1.png",
+        "category": "cross"
+    },
+    {
+        "id": 4,
+        "name": "Glamorous Loop Dark Pink Sapphire Pendant | 18 Kt (2.02g) |",
+        "price": 62000,
+        "image": "gemP2.png",
+        "category": "gemP"
+    },
+    {
+        "id": 5,
+        "name": "Yellow Gold And Cubic Zirconia Pendant | 22 Kt (1.56g) |",
+        "price": 69900,
+        "image": "gemP1.png",
+        "category": "gemP"
+    },
+    {
+        "id": 6,
+        "name": "Love Heart Gold Pendant   | 18 Kt (6g) | 5.7mm ",
+        "price": 45000,
+        "image": "heart2.png",
+        "category": "heart"
+    },
+    {
+        "id": 7,
+        "name": "Sleek Floral Gold Pendant | 22 Kt (2.67g) | ",
+        "price": 70100,
+        "image": "floralP1.png",
+        "category": "floralP"
+    },
+    {
+        "id": 8,
+        "name": "Minimal Floral Gold Pendant | 22 Kt (1.41g) | 14.5mm",
+        "price": 44350,
+        "image": "floralP2.png",
+        "category": "floralP"
+    },
+    {
+        "id": 9,
+        "name": "ww",
+        "price": 123456,
+        "image": "heart1.png",
+        "category": "twoLayer"
+    }
+]

@@ -1,0 +1,125 @@
+.footer{
+    padding-top: 50px;
+    padding: 50px 6% 50px;   
+    text-decoration: none;
+    list-style: none;
+    margin-top: 100px;
+    font-family: "Mulish", sans-serif;
+}
+.footer{
+   
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px,auto));
+    gap: 2.9rem;
+    background: linear-gradient(to right, #ae9883,#ae9883,#ae9883);
+    position: absolute;
+    left: 0;
+    right: 0;
+     /* bottom: 0;    */
+    /* top: auto; */
+    /* top: 2700px;   */
+    
+}
+.footer {
+    position: relative; /* Ensure positioning context for pseudo-elements */
+    /* overflow: hidden; 
+    border-top-left-radius: 70px; 
+    border-top-right-radius: 70px;  */
+}
+
+.footer::before,
+.footer::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    width: 50%;
+    height: 2px; /* Adjust thickness of the border */
+    /* background-color: #ffffff; Adjust color of the border  */
+}
+
+.footer::before {
+    left: 0;
+    border-top-left-radius: 70px; /* Apply border radius to upper-left corner */
+}
+
+.footer::after {
+    right: 0;
+    border-top-right-radius: 70px; /* Apply border radius to upper-right corner */
+}
+
+
+
+.footer-content h4{
+    color: #fff;
+    margin-bottom: 1.5rem;
+    font-size: 20px;
+}
+.footer-content li{
+    margin-bottom: 16px;  
+    
+}
+.footer-content li a{
+    display: block;
+    /* color: #d6d6d6; */
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+    transition: all .40s ease;
+    text-decoration: none;
+    bottom: 0;
+}
+.footer-content li a:hover{
+    transform: translateY(-2px) translateX(-2px);
+    color: #f4dd6b;
+}
+.footer-content p{
+    /* color: #d6d6d6; */
+    color: #fff;
+    font-size: 16px;
+    line-height: 30px;
+    margin: 0 0; 
+   
+}
+.icons a{
+    display: inline-block;
+    font-size: 22px;
+    /* color: #d6d6d6; */
+    color: #fff;
+    margin-right: 17px;
+    transition: all .40s ease; 
+    margin-top: 1px;  
+}
+.icons a:hover{
+    color: #f4dd6b;
+    transform: translateY(-5px);
+}
+
+@media(max-width:1690px)
+{
+    section{
+        padding: 50px 5% 10px;
+    }
+}
+@media(max-width:1120px)
+{
+    .footer{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px,auto));
+        gap: 2rem;
+    }
+}
+@media(max-width:700px)
+{
+    .footer{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px,auto));
+        gap: 2.5rem;
+    }
+} 
+
+
+
+
+
+
+

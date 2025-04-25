@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name":"White Gold 0.50ct Diamond Wave Stud Earrings | 18 Kt |",
+        "price": 325000,
+        "image": "/MaryMaryam/AuEarrings/Wearrin1.png",
+        "category": "Wearrings"
+    },
+    {
+        "id": 3,
+        "name":"Three Row White Gold & Peridot Ring | 9 Kt |",
+        "price": 141900,
+        "image": "/MaryMaryam/AuRings/Wring3.png",
+        "category": "Wrings"
+    },
+    {
+        "id": 1,
+        "name":"White Gold Pearl and Diamond Pendant and Chain | 9 Kt | 16-18'",
+        "price": 118000,
+        "image": "/MaryMaryam/AuPendants/Wpendant1.png",
+        "category": "Wpendants"
+    },
+    {
+        "id": 2,
+        "name":"White Gold Elongated Drop Earrings | 9 Kt | 3cm",
+        "price": 54300,
+        "image": "/MaryMaryam/AuEarrings/Wearrin2.png",
+        "category": "Wearrings"
+    },
+    {
+        "id": 1,
+        "name":"White Gold Ladies Bracelet Studded With Genuine Diamond | 18 Kt (22.93g) |",
+        "price": 566300,
+        "image": "/MaryMaryam/AuBracelets/brace1.png",
+        "category": "Wbracelets"
+    },
+    {
+        "id": 1,
+        "name":"White Gold & Diamond Spiral Ring | 18 Kt (2 diamonds: 0.18ct) | ",
+        "price": 310010,
+        "image": "/MaryMaryam/AuRings/Wring1.png",
+        "category": "Wrings"
+    },
+    {
+        "id": 2,
+        "name":"White Gold Ladies Bracelet With Diamond | 18 Kt (22.61g) |",
+        "price": 639800,
+        "image": "/MaryMaryam/AuBracelets/brace2.png",
+        "category": "Wbracelets"
+    },
+  
+    {
+        "id": 2,
+        "name":"White Gold 0.38ct Diamond Halo Pendant | 18 Kt (0.73g) |",
+        "price": 570800,
+        "image": "/MaryMaryam/AuPendants/Wpendant2.png",
+        "category": "Wpendants"
+    },
+   
+    {
+        "id": 2,
+        "name":"White Gold Oval Amethyst Ring | 9 Kt | 7x5mm",
+        "price": 110200,
+        "image": "/MaryMaryam/AuRings/Wring2.png",
+        "category": "Wrings"
+    }
+   
+]

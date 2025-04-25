@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name":"adorable twin hearted Gold Necklace | 22 Kt (5.35g) | 36cm",
+        "price": 162800,
+        "image": "twin1.png",
+        "category": "22gold"
+    },
+    {
+        "id": 2,
+        "name":"Stunning Floral Gold Necklace | 22 Kt (20.03g) | 40cm",
+        "price": 599000,
+        "image": "floral1.png",
+        "category": "22gold"
+    }
+]

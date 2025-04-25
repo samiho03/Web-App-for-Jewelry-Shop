@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name":"Solitaire Diamond Split Shank Yellow Gold Ring | 18 Kt |",
+        "price": 493700,
+        "image": "solitaire1.png",
+        "category": "solitaire"
+    },
+    {
+        "id": 2,
+        "name":"Engravable Round Signet Ring | 18 Kt | ",
+        "price": 34164,
+        "image": "signet1.png",
+        "category": "signet"
+    },
+    {
+        "id": 3,
+        "name":"Helix curves cross over Ring | 18 Kt (6.5 g)",
+        "price": 34200,
+        "image": "stackable1.png",
+        "category": "stackable"
+    },
+    {
+        "id": 4,
+        "name":"Slender and Minimalistic Single Stone Solitaire Ring",
+        "price":253500,
+        "image": "solitaire2.png",
+        "category": "solitaire"
+    },
+    {
+        "id": 5,
+        "name":"Engravable Heart Signet Ring | 18 Kt (7.2g) |8.8mm x 7.2mm",
+        "price": 34160,
+        "image": "signet2.png",
+        "category": "signet"
+    },
+    {
+        "id": 6,
+        "name":"Molten Pearl Twisted Stacking Ring | 18 Kt (6g)",
+        "price": 38700,
+        "image": "stackable2.png",
+        "category": "stackable"
+    },
+    {
+        "id": 7,
+        "name":"Oval Gemstone Chunky Ring | 18 Kt (9.9g) | 16.8mm x 6mm",
+        "price": 60900,
+        "image": "cockt1.png",
+        "category": "cockt"
+    },
+    {
+        "id": 8,
+        "name":"Harris Reed Openness Ring | 18 Kt (2.85g) | 14.5mm",
+        "price": 46450,
+        "image": "open1.png",
+        "category": "open"
+    }
+]

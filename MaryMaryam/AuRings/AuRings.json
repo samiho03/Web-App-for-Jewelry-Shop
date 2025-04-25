@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name":"White Gold & Diamond Spiral Ring | 18 Kt (2 diamonds: 0.18ct) | ",
+        "price": 310010,
+        "image": "Wring1.png",
+        "category": "18gold"
+    },
+    {
+        "id": 2,
+        "name":"White Gold Oval Amethyst Ring | 9 Kt | 7x5mm",
+        "price": 110200,
+        "image": "Wring2.png",
+        "category": "9gold"
+    },
+    {
+        "id": 3,
+        "name":"Three Row White Gold & Peridot Ring | 9 Kt |",
+        "price": 141900,
+        "image": "Wring3.png",
+        "category": "9gold"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Gorgeous beads pattern Kids Anklets | 22 Kt (9.97g) |13cm ",
+        "price": 252000,
+        "image": "bead1.png",
+        "category": "beaded"
+    },
+    {
+        "id": 2,
+        "name": "simple elegant Anklets  | 22 Kt (7.94g)| 12.7cm ",
+        "price": 228600,
+        "image": "classicc1.png",
+        "category": "classicc"
+    },
+    {
+        "id": 3,
+        "name": "Two-Tone Gold Filigree Butterfly Ankle Adjustable | 18 Kt |20cm",
+        "price": 182000,
+        "image": "filigreee1.png",
+        "category": "filigreee"
+    },
+    {
+        "id": 4,
+        "name": "Traditional Gold Anklets | 22 Kt (12.27g) |25.4cm",
+        "price": "40000",
+        "image": "tradi1.png",
+        "category": "lweight"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 3,
+        "name": "marvellous Light Weight Gold Necklace | 22 Kt (4.26g) |46cm",
+        "price": 122700,
+        "image": "3.png",
+        "category": "lweight"
+    },
+    {
+        "id": 4,
+        "name": "graceful double layer Gold Necklace | 22 Kt (7.74g) | 45cm ",
+        "price": 230900,
+        "image": "4.png",
+        "category": "twoLayer"
+    },
+    {
+        "id": 5,
+        "name": "Harmonious Trendy Gold Necklace | 22 Kt (24.73g) | 38cm",
+        "price": 45000,
+        "image": "5.png",
+        "category": "twoLayer"
+    }
+]

@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+   
+}
+.bodyy{
+    background-color: #fdf3e4d1;
+} 
+.wrap{
+    width: 430px;
+    padding: 2rem 1rem;
+     margin-top: 130px;
+     margin-bottom: 70px;
+     background-color: #fdf3e4d1;
+    margin-left: auto;
+    margin-right: auto;
+     border-radius: 15px; 
+    text-align: center;
+    /* box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1); */
+}
+/* .wrap::before{
+  
+    content: '';
+    position: absolute;
+  
+    background-image: linear-gradient(70deg, #ae9883, #856240);
+    border-radius: 20% 30% 80% 10%;
+     filter: blur(150px);  
+    z-index: -1;
+
+    text-align: center;
+
+} */
+.wrap h3{
+    /* z-index: 344; */
+    font-size: 2rem;
+    color: #2f150a;
+    letter-spacing: 3px;
+    margin-bottom: 1.2rem;
+    font-weight: 700;
+}
+.wrap input{
+    width: 92%;
+    outline: none;
+    border: 1px solid #ffffff00;
+    padding: 12px 20px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    background-color: #cfbeb47e;
+    margin-left: 14px;
+    
+}
+.formmm button{
+    font-size: 1.5rem;
+    margin-top: 1.8rem;
+    padding: 10px 0;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    width: 91%;
+    cursor: pointer;
+    background: #2f150a;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+.formmm button:hover{
+    background: #2f150aab;
+}
+input:focus{
+    border: 1px solid rgb(192, 192, 192);
+}
+.term{
+    margin-top: 0.2rem;   
+}
+.term input{
+    height: 1em;
+    width: 1em;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.term label{
+    color: #868585;
+    font-size: 0.7rem;
+    font-weight: 300;    
+}
+.term a{
+    color: rgb(73, 48, 13);
+    text-decoration: none;
+    font-weight: 800;
+}
+.member{
+    font-size: 0.8rem;
+    font-weight: 300;
+    margin-top: 1.4rem;
+    color: #868585;
+}
+#checkbox{
+    margin-top: 10px;
+}
+.member a{
+    font-weight: 800;
+    color: rgb(73, 48, 13);
+    text-decoration: none;
+}
+.recover{
+    text-align: right;
+    font-size: 0.7rem;
+    margin: 0.3rem 1.4rem 0 0;
+}
+.recover a:hover{
+    color: rgba(94, 61, 12, 0.603);
+}
+.recover a{
+    text-decoration: none;
+    color: #464647;
+    
+    
+}

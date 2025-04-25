@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name":" 14KT Sunshiny Hera Diamond Ring Women",
+        "price": 82100,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" 14KT Yellow Gold Diamond Drop Ear Stud",
+        "price": 102410,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" 14KT Gold Earring with Contemporary Design",
+        "price": 131670,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" 22KT Yellow Gold Necklace with Elegance",
+        "price": 250300,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" Traditional 22kt yellow and and white gold necklace",
+        "price": 419000,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":"22KT Surya Meena Yellow Gold Necklace",
+        "price": 160000,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" The Mobius Strip Warm Gold Chain Bracelet",
+        "price": 150000,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":"The Jewelbox Italian 3D Curb Links 18K Gold Bracelet",
+        "price": 257000,
+        "image": "image/8.png"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name":"Arthur Gold Panchauda | 22 Kt (1.45g) |",
+        "price": 50050,
+        "image": "pancha1.png",
+        "category": "pancha"
+    },
+    {
+        "id": 2,
+        "name":"Kids Gold Ear Stud Set With 0.28ct Rounds | 22 Kt (1.83g) |",
+        "price": 77590,
+        "image": "earrin1.png",
+        "category": "earrin"
+    },
+    {
+        "id": 3,
+        "name":"Vogue Gold Panchauda | 22 Kt (1.84g) |",
+        "price": 60000,
+        "image": "pancha2.png",
+        "category": "pancha"
+    },
+    {
+        "id": 4,
+        "name":"Trendy Kids Bangle | 22 Kt (4.6g0 |",
+        "price": 117000,
+        "image": "bangleee1.png",
+        "category": "bangleee"
+    },
+    {
+        "id": 5,
+        "name":"White Unicorn Gold Pendant | 18 Kt (1.65g) |16 × 14 mm",
+        "price": 51000,
+        "image": "pendan1.png",
+        "category": "pendan"
+    },
+    {
+        "id": 6,
+        "name":"Black Beads Gold Bracelet | 18 Kt (1.7g) |100 × 10 mm",
+        "price": 46000,
+        "image": "rel1.png",
+        "category": "rel"
+    }
+]

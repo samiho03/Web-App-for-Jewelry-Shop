@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name":"Subtle elegant Mens Gold Ring | 22 Kt (3.25g) | 20",
+        "price": 96400,
+        "image": "MenRing1.png",
+        "category": "MenRing"
+    },
+    {
+        "id": 2,
+        "name":"Gents Wedding Band Ring | 22 Kt (19.5g) |",
+        "price": 60500,
+        "image": "MenRing2.png",
+        "category": "MenRing"
+    },
+    {
+        "id": 3,
+        "name":"striking link pattern Mens Bracelet | 22 Kt (46.99g) |19cm",
+        "price": 1021000,
+        "image": "MenBrace1.png",
+        "category": "MenBrace"
+    }
+]

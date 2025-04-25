@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Diamond Fancy Couple Rings | 18 Kt (8.33g) |",
+        "price": 280060,
+        "image": "WedcRing1.png",
+        "category": "couple"
+    },
+    {
+        "id": 2,
+        "name": "Abstract Single Stone Ring  | 22 Kt (3.48g) | 12",
+        "price": 599000,
+        "image": "WedwRing1.png",
+        "category": "women"
+    },
+    {
+        "id": 3,
+        "name": "Gents Wedding Band Ring | 22 Kt (7.94g) |14 ",
+        "price": 60500,
+        "image": "WedmRing1.png",
+        "category": "men"
+    },
+    {
+        "id": 4,
+        "name": "new",
+        "price": 25000,
+        "image": "WedcRing1.png",
+        "category": "lweight"
+    }
+]

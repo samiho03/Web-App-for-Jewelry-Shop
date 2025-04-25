@@ -1,0 +1,470 @@
+[
+    {
+        "id": 5,
+        "name":"Yellow Gold And Cubic Zirconia Pendant | 22 Kt (1.56g) |",
+        "price": 69900,
+        "image": "/MaryMaryam/Pendants/gemP1.png",
+        "category": "pendants"
+    },
+   
+    {
+        "id": 2,
+        "name":"SK 916 Classic Gold Bangle | 3.65mm x 2.07mm ",
+        "price": 470000,
+        "image": "/MaryMaryam/Bangles/classic1.png",
+        "category": "bangles"
+    },
+    {
+        "id": 8,
+        "name":"Harris Reed Openness Ring | 18 Kt (2.85g) | 14.5mm",
+        "price": 46450,
+        "image": "/MaryMaryam/Rings/open1.png",
+        "category": "rings"
+    },
+    {
+        "id": 5,
+        "name":"Figaro Gold Chain  | 22 Kt (8.15g) | 45.72cm",
+        "price": 228000,
+        "image": "/MaryMaryam/Chains/figaro2.png",
+        "category": "chains"
+    },
+    {
+        "id": 1,
+        "name":"Yellow Gold Small Flower Stud Earrings | 9Kt | 3.12 gm",
+        "price": 20000,
+        "image": "/MaryMaryam/Earings/stud1.png",
+        "category": "earrings"
+    },
+   
+    {
+        "id": 6,
+        "name":"Love Heart Gold Pendant   | 18 Kt (6g) | 5.7mm ",
+        "price": 45000,
+        "image": "/MaryMaryam/Pendants/heart2.png",
+        "category": "pendants"
+    },
+  
+    {
+        "id": 3,
+        "name":"Helix curves cross over Ring | 18 Kt (6.5 g)",
+        "price": 34200,
+        "image": "/MaryMaryam/Rings/stackable1.png",
+        "category": "rings"
+    },
+    {
+        "id": 3,
+        "name":"Classic Matte Finished Gold Cartier Bracelet | 22 Kt (35.79g) |",
+        "price": 1062000,
+        "image": "/MaryMaryam/Bracelets/cartier1.png",
+        "category": "bracelets"
+    },
+    {
+        "id": 2,
+        "name":"Engravable Round Signet Ring | 18 Kt | ",
+        "price": 34164,
+        "image": "/MaryMaryam/Rings/signet1.png",
+        "category": "rings"
+    },
+    {
+        "id": 1,
+        "name":"Intricate Floral Gold Bangle Brcelet | 22 Kt (12.46g) |",
+        "price": 373000,
+        "image": "/MaryMaryam/Bracelets/bangle1.png",
+        "category": "bracelets"
+    },
+    
+    {
+        "id": 15,
+        "name":"Gold Stone Beaded Jhumkas",
+        "price": 45900,
+        "image": "/MaryMaryam/Earings/Chandelier2.png",
+        "category": "earrings"
+    },
+    {
+        "id": 3,
+        "name":"22KT YELLOW GOLD NECKLACE (NE0001477)",
+        "price": 290000,
+        "image": "/MaryMaryam/Necklaces/3.png",
+        "category": "necklaces"
+    },
+    {
+        "id": 5,
+        "name":"Yellow Gold Stud Earring | 18 Kt | 3.93 gm",
+        "price": 18990,
+        "image": "/MaryMaryam/Earings/stud3.png",
+        "category": "earrings"
+    },
+    {
+        "id": 4,
+        "name":"22KT YELLOW GOLD NECKLACE (NE0001199)",
+        "price": 300000,
+        "image": "/MaryMaryam/Necklaces/4.png",
+        "category": "necklaces"
+    },
+    {
+        "id": 3,
+        "name":"Devotional Cross Pendant | 22 Kt (0.82 g) | 18mm ⨯ 8mm",
+        "price": 44990,
+        "image": "/MaryMaryam/Pendants/cross1.png",
+        "category": "pendants"
+    },
+    {
+        "id": 5,
+        "name":"22KT YELLOW GOLD NECKLACE (NE0001091)",
+        "price": 380000,
+        "image": "/MaryMaryam/Necklaces/5.png",
+        "category": "necklaces"
+    },
+    {
+        "id": 6,
+        "name":"Rhinestone Studded 4 Claw Ear Cuffs",
+        "price": 20000,
+        "image": "/MaryMaryam/Earings/cuff1.png",
+        "category": "earrings"
+    },
+    {
+        "id": 6,
+        "name":"24KT YELLOW GOLD NECKLACE (NE0001199)",
+        "price": 385000,
+        "image": "/MaryMaryam/Necklaces/6.png",
+        "category": "necklaces"
+    },
+    {
+        "id": 4,
+        "name":"Yellow Gold Floral-Design Stud Earrings | 22 Kt | 2.83 gm",
+        "price": 25000,
+        "image": "/MaryMaryam/Earings/stud2.png",
+        "category": "earrings"
+    },
+    {
+        "id": 2,
+        "name":"Yellow Gold Net Armour Bangle | 18 Kt | 63.6mm'L x 6.9mm'W",
+        "price": 410300,
+        "image": "/MaryMaryam/Bangles/classic4.png",
+        "category": "bangles"
+    },
+    {
+        "id": 10,
+        "name":"Laurie Ear Climbers in Rose Gold | 14 Kt | 0.81'L x 0.49'W on post",
+        "price": 28999,
+        "image": "/MaryMaryam/Earings/earClimber1.png",
+        "category": "earrings"
+    },
+    {
+        "id": 3,
+        "name":"Filigree Rosette Bangle Yellow gold | 18 Kt |",
+        "price": 177990,
+        "image": "/MaryMaryam/Bangles/filigree1.png",
+        "category": "bangles"
+    },
+    {
+        "id": 4,
+        "name":"Classic Twisted Rope Gold Bangle | 916 Gold |",
+        "price": 531990,
+        "image": "/MaryMaryam/Bangles/classic3.png",
+        "category": "bangles"
+    },
+    {
+        "id": 5,
+        "name":"Glamorous Double Layered Gold Bangle | 22 Kt |",
+        "price": 208000,
+        "image": "/MaryMaryam/Bangles/layered1.png",
+        "category": "bangles"
+    },
+    {
+        "id": 14,
+        "name":"Sophia Clip On Drop Earrings in Gold | 14 Kt | 1.75'L x 0.82'",
+        "price": 17900,
+        "image": "/MaryMaryam/Earings/dangle2.png",
+        "category": "earrings"
+    },
+    {
+        "id": 4,
+        "name":"Glamorous Loop Dark Pink Sapphire Pendant | 18 Kt (2.02g) |",
+        "price":62000,
+        "image": "/MaryMaryam/Pendants/gemP2.png",
+        "category": "pendants"
+    },
+    {
+        "id": 1,
+        "name":"Gorgeous beads pattern Kids Anklets | 22 Kt (9.97g) |13cm ",
+        "price": 252000,
+        "image": "/MaryMaryam/Anklets/bead1.png",
+        "category": "anklets"
+    },
+    {
+        "id": 7,
+        "name":"Oval Gemstone Chunky Ring | 18 Kt (9.9g) | 16.8mm x 6mm",
+        "price": 60900,
+        "image": "/MaryMaryam/Rings/cockt1.png",
+        "category": "rings"
+    },
+    {
+        "id": 6,
+        "name":"Traditional Gold Kada Bangle | 18 Kt(15.210g) | 2'8",
+        "price": 360200,
+        "image": "/MaryMaryam/Bangles/kada1.png",
+        "category": "bangles"
+    },
+    
+    {
+        "id": 11,
+        "name":"Women Gold Ear Cuffs| 14 Kt | ",
+        "price": 25000,
+        "image": "/MaryMaryam/Earings/cuff2.png",
+        "category": "earrings"
+    },
+    {
+        "id": 7,
+        "name":"Kelly Bangle Bracelet in Gold |2.48' Inner Diameter, 0.27'W ",
+        "price": 247000,
+        "image": "/MaryMaryam/Bangles/classic2.png",
+        "category": "bangles"
+    },
+    {
+        "id": 5,
+        "name":"Engravable Heart Signet Ring | 18 Kt (7.2g) |8.8mm x 7.2mm",
+        "price": 34160,
+        "image": "/MaryMaryam/Rings/signet2.png",
+        "category": "rings"
+    },
+    {
+        "id": 8,
+        "name":"Caesar Roman Gold Bangle | 916 | 6.2cm'L x 6.16mm'W",
+        "price": 2158000,
+        "image": "/MaryMaryam/Bangles/roman1.png",
+        "category": "bangles"
+    },
+    {
+        "id": 3,
+        "name":"Juliette Drop Earrings in White Crystal | 14 Kt | 1.1'L X 0.15'W",
+        "price": 21100,
+        "image": "/MaryMaryam/Earings/dangle1.png",
+        "category": "earrings"
+    },
+   
+  
+    {
+        "id": 10,
+        "name":"Aurelia Roman Gold Bangle | 916 Gold |3cm width",
+        "price": 2405600,
+        "image": "/MaryMaryam/Bangles/roman2.png",
+        "category": "bangles"
+    },
+  
+
+    {
+        "id": 2,
+        "name":"Fancy Floral Pattern Gold Casual Wear Bracelet | 22 Kt (4.93g) |",
+        "price": 152000,
+        "image": "/MaryMaryam/Bracelets/floral1.png",
+        "category": "bracelets"
+    },
+    {
+        "id": 3,
+        "name":"contemporary dual tone Gold Chain | 22 Kt (15.39g) | 50.8cm",
+        "price": 450400,
+        "image": "/MaryMaryam/Chains/dual1.png",
+        "category": "chains"
+    },
+    {
+        "id": 4,
+        "name":"Beautiful Bangle Bracelet | 22 Kt (9.65g) | ",
+        "price":285000,
+        "image": "/MaryMaryam/Bracelets/bangle2.png",
+        "category": "bracelets"
+    },
+    
+  
+    {
+        "id": 13,
+        "name":"Mikki Metal Huggie Earrings in Gold | 14 Kt | 0.67'L x 0.65'W",
+        "price": 18900,
+        "image": "/MaryMaryam/Earings/hoop3.png",
+        "category": "earrings"
+        
+    },
+    {
+        "id": 5,
+        "name":"Uniquely Crafted And Studded Gold Bracelet | 22 Kt (5.10g) |",
+        "price": 153700,
+        "image": "/MaryMaryam/Bracelets/stud1.png",
+        "category": "bracelets"
+    },
+   
+    {
+        "id": 1,
+        "name":"Stunning Cable Chain | 22 Kt | 45cm",
+        "price": 1306400,
+        "image": "/MaryMaryam/Chains/cable1.png",
+        "category": "chains"
+    },
+    {
+        "id": 2,
+        "name":"string pattern Daily wear Gold Chain | 22 Kt (15.99g) | 60cm",
+        "price": 447800,
+        "image": "/MaryMaryam/Chains/figaro1.png",
+        "category": "chains"
+    },
+   
+    {
+        "id": 8,
+        "name":"Minimal Floral Gold Pendant | 22 Kt (1.41g) | 14.5mm",
+        "price": 44350,
+        "image": "/MaryMaryam/Pendants/floralP2.png",
+        "category": "pendants"
+    },
+    {
+        "id": 4,
+        "name":"Italian Pattern Plain Chain| 22 Kt (46.76g) | 8mm W ⨯ 53.32cm L",
+        "price":1349000,
+        "image": "/MaryMaryam/Chains/figaro3.png",
+        "category": "chains"
+    },
+   
+    {
+        "id": 2,
+        "name":"simple elegant Anklets  | 22 Kt (7.94g)| 12.7cm ",
+        "price": 228600,
+        "image": "/MaryMaryam/Anklets/classicc1.png",
+        "category": "anklets"
+    },
+  
+    {
+        "id": 7,
+        "name":"Annie Hoop Earrings in Yellow Gold | 14 Kt | 1.61'L X 0.38'W",
+        "price": 24700,
+        "image": "/MaryMaryam/Earings/hoop2.png",
+        "category": "earrings"
+    },
+    {
+        "id": 6,
+        "name":"Trendy Dual Gold Chain | 22 Kt (20.63g) | 50.8cm ",
+        "price": 604100,
+        "image": "/MaryMaryam/Chains/dual2.png",
+        "category": "chains"
+    },
+   
+    {
+        "id": 2,
+        "name":"18KT YELLOW GOLD NECKLACE (NES0001376)",
+        "price": 250000,
+        "image": "/MaryMaryam/Necklaces/2.png",
+        "category": "necklaces"
+    },
+    {
+        "id": 2,
+        "name":"Colette Hoop Earrings in Gold | 14 Kt | 1.26' Outside Diameter ",
+        "price": 21100,
+        "image": "/MaryMaryam/Earings/hoop1.png",
+        "category": "earrings"
+    },
+    {
+        "id": 8,
+        "name":"Bhumi Beaming Bell Climbers | 925 | 5.1 gm",
+        "price": 24400,
+        "image": "/MaryMaryam/Earings/earClimber2.png",
+        "category": "earrings"
+    },
+    {
+        "id": 9,
+        "name":"Multi-layered Gold Bangle | 22 Kt | 60mm x 60mm",
+        "price": 399000,
+        "image": "/MaryMaryam/Bangles/layered2.png",
+        "category": "bangles"
+    },
+    {
+        "id": 4,
+        "name":"Slender and Minimalistic Single Stone Solitaire Ring",
+        "price":253500,
+        "image": "/MaryMaryam/Rings/solitaire2.png",
+        "category": "rings"
+    },
+    {
+        "id": 6,
+        "name":"Gleaming Eclectic Mens Bracelet | 22 Kt (8.63g) | ",
+        "price": 245000,
+        "image": "/MaryMaryam/Bracelets/men1.png",
+        "category": "bracelets"
+    },
+    {
+        "id": 9,
+        "name":"Oxidised Chandelier Chandbali Earrings",
+        "price": 45990,
+        "image": "/MaryMaryam/Earings/Chandelier1.png",
+        "category": "earrings"
+    },
+ 
+  
+    {
+        "id": 1,
+        "name":"Ridge Heart Clip-On Pendant| 18 Kt | L35mm, W19.7mm, D5.6mm",
+        "price": 38300,
+        "image": "/MaryMaryam/Pendants/heart1.png",
+        "category": "pendants"
+    },
+    {
+        "id": 2,
+        "name":"Letter A Calligraphic Gold Pendant | 22 Kt (1.9g) | H22mm⨯ W14mm",
+        "price": 62300,
+        "image": "/MaryMaryam/Pendants/ini1.png",
+        "category": "pendants"
+    },
+  
+    {
+        "id": 3,
+        "name":"Two-Tone Gold Filigree Butterfly Ankle Adjustable | 18 Kt |20cm",
+        "price": 182000,
+        "image": "/MaryMaryam/Anklets/filigreee1.png",
+        "category": "anklets"
+    },
+   
+    {
+        "id": 12,
+        "name":"Yellow Gold Paisley Design Stud Earrings | 14 Kt | 1.15 gm",
+        "price": 25000,
+        "image": "/MaryMaryam/Earings/stud4.png",
+        "category": "earrings"
+    },
+    {
+        "id": 7,
+        "name":"Sleek Floral Gold Pendant | 22 Kt (2.67g) | ",
+        "price": 70100,
+        "image": "/MaryMaryam/Pendants/floralP1.png",
+        "category": "pendants"
+    },
+   
+    {
+        "id": 1,
+        "name":"Solitaire Diamond Split Shank Yellow Gold Ring | 18 Kt |",
+        "price": 493700,
+        "image": "/MaryMaryam/Rings/solitaire1.png",
+        "category": "rings"
+    },
+    
+    {
+        "id": 1,
+        "name":"18 GOLD NECKLACE",
+        "price": 200000,
+        "image": "/MaryMaryam/Necklaces/1.png",
+        "category": "necklaces"
+    },
+    
+    {
+        "id": 4,
+        "name":"Traditional Gold Anklets | 22 Kt (12.27g) |25.4cm",
+        "price": 351000,
+        "image": "/MaryMaryam/Anklets/tradi1.png",
+        "category": "anklets"
+    },
+    {
+        "id": 6,
+        "name":"Molten Pearl Twisted Stacking Ring | 18 Kt (6g)",
+        "price": 38700,
+        "image": "/MaryMaryam/Rings/stackable2.png",
+        "category": "rings"
+    }
+    
+   
+
+]

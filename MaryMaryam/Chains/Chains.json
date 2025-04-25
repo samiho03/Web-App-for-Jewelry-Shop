@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name":"Stunning Cable Chain | 22 Kt | 45cm",
+        "price": 1306400,
+        "image": "cable1.png",
+        "category": "cable"
+    },
+    {
+        "id": 2,
+        "name":"string pattern Daily wear Gold Chain | 22 Kt (15.99g) | 60cm",
+        "price": 447800,
+        "image": "figaro1.png",
+        "category": "figaro"
+    },
+    {
+        "id": 3,
+        "name":"contemporary dual tone Gold Chain | 22 Kt (15.39g) | 50.8cm",
+        "price": 450400,
+        "image": "dual1.png",
+        "category": "dual"
+    },
+    {
+        "id": 4,
+        "name":"Italian Pattern Plain Chain| 22 Kt (46.76g) | 8mm W ⨯ 53.32cm L",
+        "price":1349000,
+        "image": "figaro3.png",
+        "category": "figaro"
+    },
+    {
+        "id": 5,
+        "name":"Figaro Gold Chain  | 22 Kt (8.15g) | 45.72cm",
+        "price": 228000,
+        "image": "figaro2.png",
+        "category": "figaro"
+    },
+    {
+        "id": 6,
+        "name":"Trendy Dual Gold Chain | 22 Kt (20.63g) | 50.8cm ",
+        "price": 604100,
+        "image": "dual2.png",
+        "category": "dual"
+    }
+  
+]
